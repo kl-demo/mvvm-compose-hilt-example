@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmComposeHiltExample</string>
+    <string name="number_of_clicks">Number of clicks</string>
+    <string name="increment">Increment</string>
+</resources>
